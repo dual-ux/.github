@@ -5,7 +5,7 @@
 - **Web UX** — SEO-optimized, frictionless access for discovery and customer acquisition.  
 - **App UX** — Immersive, native-like experience for engagement, loyalty, and retention.  
 
-🔗 Explore the product: [dualux.progressivewebapp.ca](https://dualux.progressivewebapp.ca)  
+🔗 Explore the product: [dual-ux.com](https://dual-ux.com)  
 🔗 Learn about the ecosystem: [progressivewebapp.ca](https://progressivewebapp.ca)  
 
 ---
