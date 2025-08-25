@@ -11,10 +11,10 @@
 ---
 
 ## 📚 Documentation
-- [Quick Start](https://docs.dualux.progressivewebapp.ca/docs/01-getting-started/quick-start)  
-- [Architecture Overview](https://docs.dualux.progressivewebapp.ca/docs/02-architecture/overview)  
-- [Runtime API](https://docs.dualux.progressivewebapp.ca/docs/03-runtime-api/configuration)  
-- [Enterprise Licensing](https://docs.dualux.progressivewebapp.ca/docs/04-enterprise/dual-licensing)  
+- [Quick Start](https://dual-ux.github.io/docs/intro/what-is-dualux)  
+- [Architecture Overview](https://dual-ux.github.io/docs/architecture/overview)  
+- [Runtime API](https://dual-ux.github.io/docs/runtime-api/configuration)  
+- [Enterprise Licensing](https://dual-ux.github.io/docs/enterprise/dual-licensing)  
 
 ---
 
