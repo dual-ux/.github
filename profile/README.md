@@ -1,4 +1,4 @@
-![DUAL-UX Logo](https://dualux.progressivewebapp.ca/assets/icons/github-dualux-hero.png)
+![DUAL-UX Logo](https://dual-ux.com/assets/icons/github-dualux-hero.png)
 
 **DUAL-UX** is a patented Progressive Web App (PWA) runtime by Easywebapp Inc., delivering **two distinct user experiences from a single codebase**:
 
